@@ -1,1 +1,10 @@
-{}
+{
+    "DEVICE_ID_1": {
+        "expires": "2026-02-01",
+        "status": "active"
+    },
+    "DEVICE_ID_2": {
+        "expires": "2025-08-10",
+        "status": "disabled"
+    }
+}
